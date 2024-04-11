@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\29.03client\29.03client\bin\Debug\net6.0\29.03client.exe
+C:\Users\acer\source\repos\29.03client\29.03client\bin\Debug\net6.0\29.03client.deps.json
+C:\Users\acer\source\repos\29.03client\29.03client\bin\Debug\net6.0\29.03client.runtimeconfig.json
+C:\Users\acer\source\repos\29.03client\29.03client\bin\Debug\net6.0\29.03client.dll
+C:\Users\acer\source\repos\29.03client\29.03client\bin\Debug\net6.0\29.03client.pdb
+C:\Users\acer\source\repos\29.03client\29.03client\obj\Debug\net6.0\29.03client.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\29.03client\29.03client\obj\Debug\net6.0\29.03client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\29.03client\29.03client\obj\Debug\net6.0\29.03client.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\29.03client\29.03client\obj\Debug\net6.0\29.03client.AssemblyInfo.cs
+C:\Users\acer\source\repos\29.03client\29.03client\obj\Debug\net6.0\29.03client.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\29.03client\29.03client\obj\Debug\net6.0\29.03client.dll
+C:\Users\acer\source\repos\29.03client\29.03client\obj\Debug\net6.0\refint\29.03client.dll
+C:\Users\acer\source\repos\29.03client\29.03client\obj\Debug\net6.0\29.03client.pdb
+C:\Users\acer\source\repos\29.03client\29.03client\obj\Debug\net6.0\29.03client.genruntimeconfig.cache
+C:\Users\acer\source\repos\29.03client\29.03client\obj\Debug\net6.0\ref\29.03client.dll
